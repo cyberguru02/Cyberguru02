@@ -6,10 +6,7 @@
 
 ## Introduction
 
-I am a recent graduate in Cyber Security. I’m am eagar to learn and apply the experience and skills within the field of Information Technology! Have a look at the project I’ve worked on!
-
-## Objective
-My background in computer information technology has fueled my passion for cybersecurity. I am excited to pivot into this field, particularly aiming to join a Security Operations Center (SOC) or Cyber Security Analyst. 
+My name is Michael Ly, a graduate from the University of Louisville! My background in computer information technology has fueled my passion for cybersecurity. I am excited to pivot into this field, particularly aiming to join a Security Operations Center (SOC) or Cyber Security Analyst. Feel free to take a look at my projects and walkthroughs!
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
