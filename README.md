@@ -9,14 +9,15 @@
 My name is Michael Ly, a graduate from the University of Louisville! My background in computer information technology has fueled my passion for cybersecurity. I am excited to pivot into this field, particularly aiming to join a Security Operations Center (SOC) or Cyber Security Analyst. Feel free to take a look at my projects and walkthroughs!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle and TheHive SOAR         | SOC Automation Lab|
-| Redhat Incident Response Planning and Execution  | SOC Automation Lab|
+| Network Traffic Analysis and Threat Detection| <a href="https://github.com/cyberguru02/Traffic-Analysis-Jan-2023-Unit-42-Wireshark">WireShark Detection</a>|
+| Incident Response Automation with Shuffle and TheHive| <a href="https://github.com/cyberguru02/CYBERSEC-SOC-LAB-WITH-XDR-AND-SOAR-CAPABILITES">SOC Automation Lab</a>|
+| Honeypot Monitoring and Global Attack Detection with Azure Sentinel| <a href="https://github.com/cyberguru02/AZURE-SENTINEL-HONEYPOT-MONITORING-GLOBAL-CYBER-ATTACKS">Detection Lab</a>|
+| Splunk Log Investagation and Operations | <a href="https://github.com/cyberguru02/Splunk-Boss-of-the-SOC">Splunk Investigation</a>|
+| Active Directory Configuration with Splunk Integration| <a href="https://github.com/cyberguru02/ACTIVE-DIRECTORY-HOMELAB-WITH-SPLUNK-INTEGRATION">SOC & Detection Automation Lab</a>|
+
 
 ## Tools
 
@@ -62,5 +63,8 @@ My name is Michael Ly, a graduate from the University of Louisville! My backgrou
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/cyberguru02/Traffic-Analysis-Jan-2023-Unit-42-Wireshark">Wireshark Detection</a>
+- <a href="https://github.com/cyberguru02/CYBERSEC-SOC-LAB-WITH-XDR-AND-SOAR-CAPABILITES">SOC Automation Lab</a>
+- <a href="https://github.com/cyberguru02/AZURE-SENTINEL-HONEYPOT-MONITORING-GLOBAL-CYBER-ATTACKS">Detection Lab</a>
+- <a href="https://github.com/cyberguru02/Splunk-Boss-of-the-SOC">Splunk Investigation</a>
+- <a href="https://github.com/cyberguru02/ACTIVE-DIRECTORY-HOMELAB-WITH-SPLUNK-INTEGRATION">SOC & Detection Automation Lab</a>
