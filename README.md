@@ -54,16 +54,14 @@ My background in computer information technology has fueled my passion for cyber
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Linux+%20-EA2E2E?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-CYSA+%20-EA2E2E?style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-SSCP-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-ADD8E6?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20Certified%20Power%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure%20Administrator%20Associate-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Designing%20Azure%20Infrastructure%20Solutions-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure%20Security%20Engineer%20Associate-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISA%20-002856?style=for-the-badge&logo=isaca&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20Soc%20Level%201-brightgreen?style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
