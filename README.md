@@ -5,7 +5,7 @@
 
 ## Introduction
 
-My name is Michael Ly, a graduate from the University of Louisville! My background in computer information technology has fueled my passion for cybersecurity. I am excited to pivot into this field, particularly aiming to join a Security Operations Center (SOC) or Cyber Security Analyst. Feel free to take a look at my projects and walkthroughs!
+My name is Michael Ly, a graduate from the University of Louisville! My background in information technology and computer science has fueled my passion for cybersecurity and data science. I am excited to pivot into this field, particularly aiming to join a Security Operations Center (SOC), Cyber Security Analyst, or Data Analyst. Feel free to take a look at my projects and walkthroughs!
 
 ## Skills
 
