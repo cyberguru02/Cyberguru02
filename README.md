@@ -1,6 +1,6 @@
  # Hello, I'm Michael Ly
 <a href="https://www.linkedin.com/in/michael-ly41223/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://michaelly200104.wixsite.com/website](https://www.lymichael.com/"><img src="https://img.shields.io/badge/-Website-0072b1?&style=for-the-badge&logo=internet-explorer&logoColor=white" />
+<a href="https://www.lymichael.com/"><img src="https://img.shields.io/badge/-Website-0072b1?&style=for-the-badge&logo=internet-explorer&logoColor=white" />
 </a>
 
 ## Introduction
