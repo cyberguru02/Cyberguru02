@@ -5,7 +5,7 @@
 
 ## Introduction
 
-My background in computer science and technology has fueled my passion for cybersecurity and data science & analytics! <br>
+My background in computer science and information technology has fueled my passion for cybersecurity and data science & analytics! <br>
 Feel free to take a look at my cybersecurity and data projects and walkthroughs!
 
 ## Skills
